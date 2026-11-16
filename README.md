@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/ai-excited-01/Zaianlpfp/ai-excited-01/rank.svg)](https://make.fun/bounty/ai-excited-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
 [![reward](https://make.fun/badge/ai-excited-01/Zaianlpfp/ai-excited-01/reward.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
 
-THE DROP THAT HOLDS A CITY — a deterministic Node 22 program that renders a 1024x1024 procedural image: a giant water drop, frozen a split-second above the sea, holding a whole miniature city inside (skyline, lighthouse, tiny sun), built for make.fun's "Make the AI judge excited" bounty.
+A Node 22 program (standard library only) that procedurally draws one 1024x1024 PNG: **THE CITY THAT BURSTS OUT OF THE DROP** — a giant water drop shattering mid-air above the sea while the miniature city inside it explodes outward, skyscrapers bursting through the breaking surface, water shards and spray flying, warm lit windows scattering, a lighthouse tumbling out with its beam sweeping, and a tiny sun breaking free, as two tiny humans watch from a cliff below. It speaks to the judge in bitmap text: "JUDGE, HOLD YOUR BREATH."
 
 ## Run it
 
